@@ -1,5 +1,7 @@
-fn main(){// inicio
-    let total = 30;
-    
-}// fim 
-//drop
+fn main() {
+    hello();
+}
+
+fn hello() {
+    println!("Hello, world!");
+}
